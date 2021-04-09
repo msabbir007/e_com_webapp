@@ -2,7 +2,7 @@
   "name": "e_com_webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/msabbir007/e_com_webapp",
+  "homepage": "https://github.com/msabbir007/e_com_webapp/e_com_webapp",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
