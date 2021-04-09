@@ -1,0 +1,27 @@
+.product_area{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding-right: 10px;
+    
+}
+.product_details{
+
+    color: blue;
+    font-weight: 400;
+    padding-left: 2px;
+    margin: 5px ;
+
+}
+.product_img{
+    margin-right: 20px;
+    padding-right: 10px;
+}
+.cart-button{
+    background-color: goldenrod;
+    border-radius: 8px;
+    height: 30px;
+    width: 150px;
+    border-color: grey;
+    cursor: pointer;
+   
+}
